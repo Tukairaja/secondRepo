@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-This is some content to mesh up later
-new line add in file4.txt
-=======
 This is some delibrate mesh up inside the file
->>>>>>> newfeatures
